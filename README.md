@@ -1,1 +1,5 @@
 # ravedar-mobile
+
+## Project setup
+
+
